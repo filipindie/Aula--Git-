@@ -4,6 +4,10 @@
 - git config --global user.name "meu/seu nome"
 - git config --global user.email "meu/seu email"
 - git config --global core.editor "configurar o editor"
+# Bash:
+- touch// criar 
+- vim + arquivo// abrir arquivo
+ - wq// salvar
 
  # VSCODE:
 
@@ -15,18 +19,20 @@
 - git status // informa as alterações feitas no projeto   
 - git show // mostre determinado commit na história
 - git remote -v// lista repositório remoto
-- git branch// ramificação ou linha do tempo alternativa 
+- git branch// gerenciar novas linhas do tempo 
     - git branch feature/nome
     - git branch  p/ ver todas as branchs criadas
-- git checkout / para mudar pra branch 
+- git checkout // manipul as linhas do tempo 
     - git checkout feature/nome
     - p/criar touch
     - git checkout master(volta pra parte principal do projeto)
     - P/ adicionar a branch na história(git add, git commmit -m + "msg")
-- git merge + branch p/unir linhas do tempo
+- git checkout -b + branch// cria uma branch e automaticamente é direcionada para ela
+- git merge + branch//  p/unir linhas do tempo
 - git branch -D + branch// para deletar
+- git commit -am "" // atualizar e realizar o commit 
 
 # Colocando o projeto na nuvem:
 - git add . 
 - git commit -m "msg"
-- git push
+- git push// envia alterações locais para o repositório remoto
