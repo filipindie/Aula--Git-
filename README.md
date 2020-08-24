@@ -31,6 +31,8 @@
 - git merge + branch//  p/unir linhas do tempo
 - git branch -D + branch// para deletar
 - git commit -am "" // atualizar e realizar o commit 
+- git clone// clonar um projeto/repositório
+- git pull// puxa atualizaçãoes do repositório remoto
 
 # Colocando o projeto na nuvem:
 - git add . 
