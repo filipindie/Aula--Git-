@@ -17,12 +17,12 @@
 - git remote -v// lista repositório remoto
 - git branch// ramificação ou linha do tempo alternativa 
     - git branch feature/nome
-        - git branch  p/ ver todas as branchs criadas
+    - git branch  p/ ver todas as branchs criadas
 - git checkout / para mudar pra branch 
     - git checkout feature/nome
-        - p/criar touch
-        - git checkout master(volta pra parte principal do projeto)
-        - P/ adicionar a branch na história(git add, git commmit -m + "msg")
+    - p/criar touch
+    - git checkout master(volta pra parte principal do projeto)
+    - P/ adicionar a branch na história(git add, git commmit -m + "msg")
 - git merge + branch p/unir linhas do tempo
 - git branch -D + branch// para deletar
 
