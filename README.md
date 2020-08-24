@@ -1,7 +1,7 @@
 # Instituto Federal da Paraiba - Campus Cajazeiras
-_ Curso Técnico de Informática Integrado ao Ensino Médio
-_ Disciplina: Desenvolvimento de Aplicações para Internet 
-_ Profesor: Gustavo Soares Vieira
+* Curso Técnico de Informática Integrado ao Ensino Médio
+* Disciplina: Desenvolvimento de Aplicações para Internet 
+* Profesor: Gustavo Soares Vieira
 
 # GIT E GITHUB
 
